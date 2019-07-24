@@ -1,5 +1,5 @@
 # awesome-microbiome-stats
-A curated list of papers on microbiome statistical analysis and tools.
+A curated list of papers on microbiome statistical analysis and tools. Constantly in development at [GitHub](https://github.com/vinisalazar/awesome-microbiome-stats/).
 
 Microbiome studies have become extremely important and popular in recent years, and many challenges and debates have arisen regarding statistical analysis. This repository attempts to cover the most relevant papers in the topics of microbiome statistical methods, including state-of-the-art tools.
 
