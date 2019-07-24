@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/99698135.svg)](https://zenodo.org/record/3349688)  
+
 # awesome-microbiome-stats
 A curated list of papers on microbiome statistical analysis and tools. Constantly in development at [GitHub](https://github.com/vinisalazar/awesome-microbiome-stats/).
 
@@ -18,3 +20,6 @@ Microbiome studies have become extremely important and popular in recent years, 
 
 #### 2013
 - [McMurdie, P. J. & Holmes, S. Phyloseq: An R Package for Reproducible Interactive Analysis and Graphics of Microbiome Census Data. PLoS One 8, (2013).](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217)
+
+[![DOI](https://zenodo.org/badge/99698135.svg)](https://zenodo.org/record/3349688)  
+
