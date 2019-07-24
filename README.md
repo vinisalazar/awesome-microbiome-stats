@@ -9,6 +9,7 @@ Microbiome studies have become extremely important and popular in recent years, 
 
 #### 2017
 - [Callahan, B. J., Mcmurdie, P. J. & Holmes, S. P. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISME J. 11, 2639–2643 (2017).](https://www.nature.com/articles/ismej2017119)
+- [Vandeputte, D. et al. Quantitative microbiome profiling links gut community variation to microbial load. Nature 551, 507 (2017).](https://www.nature.com/articles/nature24460)
 
 #### 2014
 - [Buttigieg, P. L. & Ramette, A. A guide to statistical analysis in microbial ecology: A community-focused, living review of multivariate data analyses. FEMS Microbiol. Ecol. 90, 543–550 (2014).](https://boris.unibe.ch/91368/)
