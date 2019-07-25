@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/99698135.svg)](https://zenodo.org/record/3349688)  
 
 # awesome-microbiome-stats
-A curated list of papers on microbiome statistical analysis and tools. Constantly in development at [GitHub](https://github.com/vinisalazar/awesome-microbiome-stats/).
+A curated list of papers and articles on microbiome statistical analysis and tools. Constantly in development at [GitHub](https://github.com/vinisalazar/awesome-microbiome-stats/).
 
 Microbiome studies have become extremely important and popular in recent years, and many challenges and debates have arisen regarding statistical analysis. This repository attempts to cover the most relevant papers in the topics of microbiome statistical methods, including state-of-the-art tools.
 
@@ -13,6 +13,9 @@ Microbiome studies have become extremely important and popular in recent years, 
 - [Callahan, B. J., Mcmurdie, P. J. & Holmes, S. P. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISME J. 11, 2639–2643 (2017).](https://www.nature.com/articles/ismej2017119)
 - [Vandeputte, D. et al. Quantitative microbiome profiling links gut community variation to microbial load. Nature 551, 507 (2017).](https://www.nature.com/articles/nature24460)
 - [Gloor, G. B., Macklaim, J. M., Pawlowsky-Glahn, V. & Egozcue, J. J. Microbiome datasets are compositional: and this is not optional. Front. Microbiol. 8, 2224 (2017).](https://www.frontiersin.org/articles/10.3389/fmicb.2017.02224/)
+- Yerramsetty, K. Relative vs Absolute: Understanding Compositional Data with Simulations (Medium article)
+  - [Part 1](https://towardsdatascience.com/relative-vs-absolute-understanding-compositional-data-with-simulations-fdc15e0c781e)
+  - [Part 2](https://medium.com/@krishna.yerramsetty/relative-vs-absolute-how-to-do-compositional-data-analyses-part-2-f554eb9b26e)
 
 #### 2014
 - [Buttigieg, P. L. & Ramette, A. A guide to statistical analysis in microbial ecology: A community-focused, living review of multivariate data analyses. FEMS Microbiol. Ecol. 90, 543–550 (2014).](https://boris.unibe.ch/91368/)
