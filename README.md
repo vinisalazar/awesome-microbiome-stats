@@ -5,6 +5,9 @@ A curated list of papers and articles on microbiome statistical analysis and too
 
 Microbiome studies have become extremely important and popular in recent years, and many challenges and debates have arisen regarding statistical analysis. This repository attempts to cover the most relevant papers in the topics of microbiome statistical methods, including state-of-the-art tools.
 
+#### 2019
+- [Kumar, M., Ji, B., Zengler, K. & Nielsen, J. Modelling approaches for studying the microbiome. Nat. Microbiol. 4, 1253–1267 (2019).](https://www.nature.com/articles/s41564-019-0491-9)
+
 #### 2018
 - [Knight, R. et al. Best practices for analysing microbiomes. Nat. Rev. Microbiol. 16, 410–422 (2018).](https://www.nature.com/articles/s41579-018-0029-9)
 - [McMurdie, P. J. Normalization of Microbiome Profiling Data. Methods Mol. Biol. 1849, 143–168 (2018).](https://link.springer.com/protocol/10.1007%2F978-1-4939-8728-3_10)
