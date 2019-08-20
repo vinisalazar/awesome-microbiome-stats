@@ -20,6 +20,9 @@ Microbiome studies have become extremely important and popular in recent years, 
   - [Part 1](https://towardsdatascience.com/relative-vs-absolute-understanding-compositional-data-with-simulations-fdc15e0c781e)
   - [Part 2](https://medium.com/@krishna.yerramsetty/relative-vs-absolute-how-to-do-compositional-data-analyses-part-2-f554eb9b26e)
 
+#### 2016
+- [Weiss, S. et al. Correlation detection strategies in microbial data sets vary widely in sensitivity and precision. ISME J. 10, 1669 (2016).](https://www.nature.com/articles/ismej2015235)
+
 #### 2014
 - [Buttigieg, P. L. & Ramette, A. A guide to statistical analysis in microbial ecology: A community-focused, living review of multivariate data analyses. FEMS Microbiol. Ecol. 90, 543–550 (2014).](https://boris.unibe.ch/91368/)
 - [McMurdie, P. J. & Holmes, S. Waste Not, Want Not: Why Rarefying Microbiome Data Is Inadmissible. PLoS Comput. Biol. 10, (2014).](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003531)
